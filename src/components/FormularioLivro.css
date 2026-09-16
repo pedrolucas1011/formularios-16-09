@@ -1,0 +1,39 @@
+.formulario-container {
+  background-color: #ffffff;
+  width: 100%;
+  max-width: 480px;
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+}
+
+.formulario-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #1a1a1a;
+}
+
+.formulario-container button {
+  width: 100%;
+  padding: 12px;
+  background-color: #0066ff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 8px;
+}
+
+.formulario-container button:hover {
+  background-color: #0052cc;
+}
+
+.lista-livros {
+  margin-top: 25px;
+  border-top: 1px solid #eee;
+  padding-top: 15px;
+}
