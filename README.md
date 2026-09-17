@@ -1,6 +1,4 @@
-# Cadastro de Livros — React
-
-Aplicação web desenvolvida em React utilizando Vite para o cadastro e a listagem dinâmica de livros. Este projeto foi construído como uma atividade prática focada na criação de componentes reutilizáveis, manipulação de propriedades (`props`) e gerenciamento de estado local (`useState`).
+# Formulário de lirvos — React
 
 ---
 
@@ -16,5 +14,15 @@ Aplicação web desenvolvida em React utilizando Vite para o cadastro e a listag
 Siga as etapas abaixo para clonar e rodar a aplicação em qualquer máquina local:
 
 1. **Clonar o repositório:**
-   ```bash
    git clone [https://github.com/pedrolucas1011/formularios-16-09.git](https://github.com/pedrolucas1011/formularios-16-09.git)
+
+2. **Acessar o repósitório do projeto**
+   cd formularios-16-09
+
+3. **Instalar as dependências**
+   npm install
+
+4. **Executar o servidor**
+   npm run dev
+
+E no final, acesse o endereço dado no terminal.
